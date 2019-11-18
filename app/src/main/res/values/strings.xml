@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyRates</string>
+
+    <!--  Главный экран  -->
+    <string name="head_text">Введите количество средств в рублях:</string>
+    <string name="name">Наименовние валюты</string>
+    <string name="course">Курс</string>
+    <string name="you_get">Вы получите</string>
+
+</resources>
